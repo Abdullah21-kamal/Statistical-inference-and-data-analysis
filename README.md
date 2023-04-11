@@ -9,4 +9,11 @@
 
 ## Performing Brainstorming to ask useful questions to predict whether patients will attend appointments or not
 
-## Performing Data Collection and Cleaning, Exploratory Analysis, Answering Questions, Hypothesis Testing, Regression Analysis and cite their outputs into Business and Technical reports.
+## Performing:
+### Data Collection, 
+### Cleaning, 
+### Exploratory Analysis,
+### Answering Questions,
+### Hypothesis Testing,
+### Regression Analysis
+### Results and outputs documented into Business and Technical reports.
