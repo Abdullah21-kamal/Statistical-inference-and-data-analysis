@@ -1,4 +1,4 @@
-# Statistical-inference-and-data-analysis
+# Statistical-Inference-and-Data-Analysis
 
 ## Analyzing U.S. Crime Data Statistical Inference and Data Analysis, Python, Pandas, Numpy 
 ## January, 2022 - Team project
