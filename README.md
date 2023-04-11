@@ -16,4 +16,4 @@
 ### Answering Questions,
 ### Hypothesis Testing,
 ### Regression Analysis
-### Results and outputs documented into Business and Technical reports.
+### Results and outputs are documented into Business and Technical reports.
